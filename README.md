@@ -1,2 +1,7 @@
-# 103hahawebsite
-haha
+GitHub Pages Exercise
+===========
+
+Involves
+ * git
+ * GitHub
+ * SSH
